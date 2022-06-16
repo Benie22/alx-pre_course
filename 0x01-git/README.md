@@ -1,1 +1,1 @@
-A non empty readme
+It's time to code!
